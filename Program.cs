@@ -7,7 +7,6 @@ using System.IO;
 
 namespace Kitaplık
 
-    //Kitaplık Projesi oluşturulmaktadır.
 {
     internal class Program
     {
